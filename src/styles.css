@@ -1,0 +1,25 @@
+.margin{
+    margin-bottom: 10px;
+    margin-left: 8px;
+}
+
+.top-margin{
+    margin-top: 5rem;
+}
+
+.button-width{
+    width: 3rem;
+    background-color: white !important;
+}
+
+.text-size{
+    font-size: 2rem;
+}
+
+.output-height{
+    height: 3.5rem;
+}
+
+body{
+    background-color: rgb(165, 6, 6);
+}
